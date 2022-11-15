@@ -52,6 +52,7 @@ html,body{
 }
 #text p{
     font-size: 15px;
+    color: #555;
     width: 40%;
     margin: 10px auto;
     font-family: "gilroy";
@@ -70,6 +71,7 @@ html,body{
     background-color: #F6F6EE;  
 }
 #bigimage img{
+    background-color: #F6F6EE;
     width: 100%;
 }
 #bottom{
