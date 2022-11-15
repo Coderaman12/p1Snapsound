@@ -81,7 +81,7 @@ html,body{
 #bottom #btm1{
     width:50%;
     /* background-color: #111; */
-    border-right: 2px solid black;
+    border-right: 0.2vw solid black;
 }
 #btm1 h1{
     padding-left: 20vw;
@@ -95,6 +95,14 @@ html,body{
     width: 50%;
     color: #666;
 }
+#btm1 #line {
+    margin-top: 1vw;
+    margin-left: 37vw;
+    width: 8vw;
+    height: 0.1vw;
+    background-color:#111;
+    
+}
 #btm2{
     width:50%;
     padding: 1vw 1vw;
@@ -104,7 +112,7 @@ html,body{
     display: flex;
     gap: 1vw;
     text-align: start;
-    font-size: 13px;
+    font-size: 1vw;
 }
 #btm3 i{
     padding-top: 0.2vw;
@@ -113,6 +121,8 @@ html,body{
     width: 100%;
 }
 #btm3 #txt p{
+    color: #666;
+    font-size: 10px;
     width: 50%;
     text-align: left;
     padding-right: 100vw;
